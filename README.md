@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# sample_app
+# Ruby on Rails Tutorial sample application
